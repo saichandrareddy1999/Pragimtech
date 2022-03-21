@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git commit -m "your comments"
+git add origin "repo url"
+git push -u origin master

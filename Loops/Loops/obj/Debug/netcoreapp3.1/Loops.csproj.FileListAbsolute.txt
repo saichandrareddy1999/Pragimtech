@@ -1,0 +1,14 @@
+E:\Pragim-Practice\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+E:\Pragim-Practice\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+E:\Pragim-Practice\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+E:\Pragim-Practice\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+E:\Pragim-Practice\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+E:\Pragim-Practice\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+E:\Pragim-Practice\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+E:\Pragim-Practice\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pragim-Practice\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+E:\Pragim-Practice\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+E:\Pragim-Practice\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+E:\Pragim-Practice\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+E:\Pragim-Practice\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+E:\Pragim-Practice\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache

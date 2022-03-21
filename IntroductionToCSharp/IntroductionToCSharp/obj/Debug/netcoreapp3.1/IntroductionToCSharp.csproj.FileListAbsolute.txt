@@ -1,0 +1,5 @@
+E:\Pragim-Practice\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.csproj.AssemblyReference.cache
+E:\Pragim-Practice\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pragim-Practice\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.AssemblyInfoInputs.cache
+E:\Pragim-Practice\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.AssemblyInfo.cs
+E:\Pragim-Practice\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\netcoreapp3.1\IntroductionToCSharp.csproj.CoreCompileInputs.cache
